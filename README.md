@@ -1,330 +1,274 @@
-\<!--
-CHANDAN TR | BUSINESS ANALYST PORTFOLIO
+<!--
+GITHUB PROFILE README
 Repository: chandantr250/chandantr250
-\-->
+Theme: Creative Business Analyst Portfolio
+-->
 
-\<div align="center">
-
-\<!-- Upload your custom banner to assets/chandan-banner.png and uncomment this image -->
-
-\<!-- \<img src="assets/chandan-banner.png" width="100%" alt="Chandan TR Business Analyst Portfolio"> -->
+<div align="center">
 
 # CHANDAN TR
 
-### BUSINESS ANALYST · REQUIREMENTS ENGINEERING · BUSINESS PROCESS ANALYSIS
+### BUSINESS ANALYST | REQUIREMENTS ENGINEERING | BUSINESS PROCESS ANALYSIS
 
-**Turning business requirements into structured workflows and practical technology solutions.**
-
-\<br>
-
-\<a href="[https://chandantr.netlify.app/](https://chandantr.netlify.app/)">
-&#x20; \<img src="[https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio">
-\</a>
-\<a href="[https://www.linkedin.com/in/chandan-chandu-/](https://www.linkedin.com/in/chandan-chandu-/)">
-&#x20; \<img src="[https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn">
-\</a>
-\<a href="mailto\:chandantr16\@gmail.com">
-&#x20; \<img src="[https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email">
-\</a>
-\<a href="[https://github.com/chandantr250](https://github.com/chandantr250)">
-&#x20; \<img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub">
-\</a>
+**Transforming business needs into structured requirements and practical technology solutions.**
 
 📍 Bengaluru, Karnataka, India
 
-\</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chandantr.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chandu-/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandantr16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250)
+
+</div>
 
 ---
 
-## 01 / PROFILE
+## 👨‍💻 ABOUT ME
 
-I'm a **Business Analyst at iLogitek Business Solutions Pvt. Ltd.**, with an MBA background in Human Resource Management and Business Analytics.
+I am a Business Analyst at **iLogitek Business Solutions Pvt. Ltd.**, with an academic background in Human Resource Management and Business Analytics.
 
-I specialize in understanding business needs, translating them into functional requirements, documenting workflows, and coordinating with cross-functional teams to support software development.
+I work on understanding business requirements, documenting functional expectations, analyzing business processes, and coordinating with cross-functional teams to support technology-driven solutions.
 
-My approach combines business understanding, analytical thinking, structured documentation, and effective communication.
+My focus is on bridging the gap between business stakeholders and technical teams through clear documentation, structured workflows, and effective communication.
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+### What I work on
 
-**BUSINESS ANALYSIS**
-
-- Requirement gathering
-- BRD and FRD documentation
-- Business process analysis
-- Gap and competitor analysis
+- Requirement gathering and business requirement analysis
+- Business Requirement Documents (BRD) and Functional Requirement Documents (FRD)
+- Business process mapping and gap analysis
 - User stories and acceptance criteria
-- Workflow documentation
-
-\</td>
-\<td width="50%" valign="top">
-
-**PROJECT COORDINATION**
-
-- Stakeholder communication
-- Developer coordination
-- UI/UX review coordination
-- QA and testing follow-ups
-- UAT support
-- Project tracking
-
-\</td>
-\</tr>
-\</table>
+- Stakeholder communication and developer coordination
+- UI/UX review coordination and requirement validation
+- UAT support, manual testing follow-ups, and project tracking
 
 ---
 
-## 02 / SKILLS & TECHNOLOGY
+## 🧩 MY BUSINESS ANALYSIS TOOLKIT
 
-**Business Analysis**
+### Business Analysis
 
+![Requirement Gathering](https://img.shields.io/badge/Requirement%20Gathering-2563EB?style=flat-square)
+![BRD](https://img.shields.io/badge/BRD-2563EB?style=flat-square)
+![FRD](https://img.shields.io/badge/FRD-2563EB?style=flat-square)
+![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-2563EB?style=flat-square)
+![Process Mapping](https://img.shields.io/badge/Process%20Mapping-2563EB?style=flat-square)
+![User Stories](https://img.shields.io/badge/User%20Stories-2563EB?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT%20Coordination-2563EB?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%7C%20SDLC-2563EB?style=flat-square)
 
+### Data & Technical Skills
 
-
-
-
-\
-
-
-**Data & Technical Skills**
-
-
-
-
-
-
-\
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **API Testing:** GET · POST · PATCH · DELETE
 
-**Tools & Platforms**
+### Tools & Platforms
 
-
-
-\
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Business Applications:** HRMS · CRM · ERP · HMS · VMS · Job Portals
 
 ---
 
-## 03 / FEATURED PROJECTS
+## 🚀 FEATURED BUSINESS ANALYSIS PROJECTS
 
-Selected business analysis and software documentation projects.
+A selection of business and software project documentation, requirements analysis, workflows, and functional planning.
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+### 01. 🏥 Hospital Management System
 
-### 🏥 Hospital Management System
+**Domain:** Healthcare Technology
 
-**Domain:** Healthcare
+A centralized hospital management solution designed to streamline patient care and hospital administration.
 
+**Key functional areas**
 - Patient and doctor management
-- Appointment workflows
-- OPD and IPD
-- Billing and payments
+- Appointment management
+- OPD and IPD workflows
+- Billing and payment management
 - Pharmacy and laboratory
-- Optional housekeeping
-- Optional HR and payroll
+- Housekeeping – optional module
+- HR and payroll – optional modules
 
-**My Role:** BRD/FRD preparation, business requirements, functional specifications, and process documentation.
+**My contribution:** Business requirement analysis, BRD and FRD preparation, functional requirements, and process documentation.
 
-\<a href="[https://github.com/chandantr250/Hospital-Management-System](https://github.com/chandantr250/Hospital-Management-System)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)">
-\</a>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/Hospital-Management-System)
 
-\</td>
-\<td width="50%" valign="top">
+---
 
-### 💼 Hirenza – Job Portal
+### 02. 💼 Hirenza – Job Portal
 
 **Domain:** Recruitment Technology
 
+A job portal connecting employers and job seekers through dedicated recruitment workflows and role-based panels.
+
+**Key functional areas**
 - Employer management
 - Job seeker management
 - Job posting and applications
-- Role-based panels
+- User role and panel management
 - Recruitment workflows
 - Mobile job seeker requirements
 
-**My Role:** Requirement gathering, BRD/FRD documentation, developer coordination, and testing follow-ups.
+**My contribution:** Requirement gathering, BRD and FRD documentation, developer coordination, and testing follow-ups.
 
-\<a href="[https://github.com/chandantr250/hirenza-job-portal](https://github.com/chandantr250/hirenza-job-portal)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)">
-\</a>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/hirenza-job-portal)
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+---
 
-### 🏢 Visitor Management System
+### 03. 🏢 Visitor Management System
 
-**Domain:** Enterprise Solutions
+**Domain:** Enterprise Management
 
-- Visitor registration
-- Check-in and check-out
+A digital visitor management solution for registration, check-in, approval, and visitor tracking.
+
+**Key functional areas**
+- Visitor registration and check-in/check-out
 - Host approval workflows
-- QR-based check-in
+- QR code-based check-in
 - Visitor pass generation
-- Notifications and reports
-- Role-based access
+- Email and in-app notifications
+- Reports and role-based access
 
-**My Role:** BRD/FRD preparation, workflow definition, and developer coordination.
+**My contribution:** BRD and FRD preparation, workflow definition, functional planning, and developer coordination.
 
-\<a href="[https://github.com/chandantr250/Visitor-Management-System-](https://github.com/chandantr250/Visitor-Management-System-)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)">
-\</a>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/Visitor-Management-System-)
 
-\</td>
-\<td width="50%" valign="top">
+---
 
-### 🎓 School Management System
+### 04. 🎓 School Management System
 
 **Domain:** Education Technology
 
+Business and technical requirements documentation for a school management solution.
+
+**Key functional areas**
 - School administration
 - Student and staff management
 - Module and workflow documentation
 - Competitor analysis
 - Gap analysis
-- Functional specifications
-- Backend development scope
+- Functional specifications and backend scope
 
-**My Role:** Business analysis, requirements documentation, competitor research, and gap analysis.
+**My contribution:** Business analysis, requirements documentation, competitor research, and gap analysis.
 
-\<a href="[https://github.com/chandantr250/School-Management-System-](https://github.com/chandantr250/School-Management-System-)">   \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/School-Management-System-)
 
-\</td> \</tr> \<tr> \<td width="50%" valign="top">
+---
 
-### 👥 HRMS Requirements
+### 05. 🏢 HRMS Requirements
 
 **Domain:** Human Resource Technology
 
+Requirements and project documentation for a cloud-based Human Resource Management System.
+
+**Key functional areas**
 - HRMS business requirements
 - Competitor comparison
 - Gap analysis
 - Project management module documentation
 
-**My Role:** Requirement analysis, functional documentation, and competitor analysis.
+**My contribution:** Requirement analysis, functional documentation, and competitor analysis.
 
-\<a href="[https://github.com/chandantr250/HRMS-Requirements](https://github.com/chandantr250/HRMS-Requirements)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)">
-\</a>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/HRMS-Requirements)
 
-\</td>
-\<td width="50%" valign="top">
+---
 
-### 📊 ERP Business Analysis
+### 06. 📊 ERP Business Analysis
 
 **Domain:** Enterprise Resource Planning
 
+Business analysis and requirements documentation for an integrated ERP and business management platform.
+
+**Key areas**
 - ERP strategic recommendations
 - CRM product requirements
 - Business management workflows
 - Integrated platform planning
 
-**My Role:** Business analysis, requirement planning, and product documentation.
+**My contribution:** Business analysis, requirement planning, and product documentation.
 
-\<a href="[https://github.com/chandantr250/ERP-Business-Analysis](https://github.com/chandantr250/ERP-Business-Analysis)">   \<img src="[https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\</td> \</tr> \</table>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandantr250/ERP-Business-Analysis)
 
 ---
 
-## 04 / PROJECT PORTFOLIO ANALYSIS
-
-The chart below shows the distribution of the six featured repositories by their primary business domain. Each repository is counted once.
-
-```mermaid
-pie showData
-    title Featured Projects by Business Domain
-    "Healthcare" : 1
-    "Recruitment" : 1
-    "Visitor Management" : 1
-    "Education" : 1
-    "Human Resources" : 1
-    "Enterprise Resource Planning" : 1
-```
-
----
-
-## 05 / PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
 ### Business Analyst
+**iLogitek Business Solutions Pvt. Ltd. | Bengaluru**
 
-**iLogitek Business Solutions Pvt. Ltd.** · Bengaluru
-
-`June 2026 – Present`
+*June 2026 – Present*
 
 - Gather and analyze business requirements for software projects.
-- Prepare Business Requirement Documents (BRD) and Functional Requirement Documents (FRD).
+- Prepare BRD and FRD documents.
 - Define functional requirements, workflows, and business processes.
 - Coordinate with developers, UI/UX designers, QA teams, and stakeholders.
 - Maintain project trackers and monitor development progress.
 - Support requirement validation and testing follow-ups.
 - Identify process gaps and document improvement opportunities.
-- Work across HRMS, ERP, HMS, VMS, and job portal solutions.
+- Work across business applications including HRMS, ERP, HMS, VMS, and job portal solutions.
 
 ### HR Intern
+**Hilton & Hilton Garden Inn | Embassy Manyata Business Park, Bengaluru**
 
-**Hilton & Hilton Garden Inn** · Embassy Manyata Business Park, Bengaluru
-
-`December 2024 – February 2025`
+*December 2024 – February 2025*
 
 - Supported HR operations and employee engagement activities.
-- Prepared engagement reports covering 100+ employees.
+- Prepared employee engagement reports covering 100+ employees.
 - Performed Excel-based data validation and reporting.
 - Assisted with onboarding documentation and HR processes.
 
 ---
 
-## 06 / EDUCATION
+## 🎓 EDUCATION
 
-**MASTER OF BUSINESS ADMINISTRATION**
+**Master of Business Administration (MBA)**  
+Human Resource Management & Business Analytics  
+CMR University, Bengaluru | Completed 2026
 
-Human Resource Management & Business Analytics
-CMR University, Bengaluru · Completed 2026
-
-**BACHELOR OF BUSINESS ADMINISTRATION**
-
+**Bachelor of Business Administration (BBA)**  
 Completed January 2025
 
 ---
 
-## 07 / LANGUAGES
+##  / LANGUAGES
 
 - English
 
+## 🎯 CAREER FOCUS
+
+I aim to grow as a Business Analyst by strengthening my analytical, technical, and problem-solving capabilities while contributing to meaningful technology-driven business solutions.
+
+I am particularly interested in opportunities involving:
+
+- Business Analysis
+- Business Systems Analysis
+- Product and Process Analysis
+- Requirements Engineering
+- Enterprise Software Solutions
+
 ---
 
-## 08 / CAREER DIRECTION
+## 🤝 LET'S CONNECT
 
-I aim to grow as a Business Analyst by continuously strengthening my analytical, technical, and problem-solving capabilities while contributing to meaningful technology-driven business solutions.
+<div align="center">
 
-**Areas of interest**
+**Have a project, collaboration opportunity, or Business Analyst opportunity? Let's connect.**
 
-`Business Analysis` · `Business Systems Analysis` · `Requirements Engineering` · `Business Process Analysis` · `Enterprise Software Solutions`
+[![Portfolio](https://img.shields.io/badge/Portfolio-chandantr.netlify.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chandantr.netlify.app/)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandan%20TR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chandu-/)
 
-## 09 / LET'S CONNECT
+[![Email](https://img.shields.io/badge/Email-chandantr16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandantr16@gmail.com)
 
-\<div align="center">
+⭐ **Thank you for visiting my GitHub profile!**
 
-### HAVE A PROJECT OR OPPORTUNITY?
-
-I'm open to connecting with professionals, collaborating on business analysis projects, and exploring relevant Business Analyst opportunities.
-
-\<a href="[https://chandantr.netlify.app/](https://chandantr.netlify.app/)">   \<img src="[https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)"> \</a> \<a href="[https://www.linkedin.com/in/chandan-chandu-/](https://www.linkedin.com/in/chandan-chandu-/)">   \<img src="[https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"> \</a> \<a href="mailto\:chandantr16\@gmail.com">   \<img src="[https://img.shields.io/badge/GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/GET%20IN%20TOUCH-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"> \</a>
-
-\<br>\<br>
-
-**Thank you for visiting my profile.**
-
-*Business Analysis · Structured Thinking · Practical Solutions*
-
-\</div>
+</div>
